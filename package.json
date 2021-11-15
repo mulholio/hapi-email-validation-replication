@@ -1,0 +1,24 @@
+{
+  "name": "hapi-email-validation-replication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulholio/hapi-email-validation-replication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulholio/hapi-email-validation-replication/issues"
+  },
+  "homepage": "https://github.com/mulholio/hapi-email-validation-replication#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/joi": "^17.1.1"
+  }
+}
